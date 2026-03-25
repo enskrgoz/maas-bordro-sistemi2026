@@ -80,10 +80,8 @@ Veri Yapısı Şeması(Aşağıdaki sıraya göre personel txt dosyası hazırla
 22- engelOrani (int): Engel yüzdesi (örn: 45, 80)
 Örnek Girdi Satırı:
 
-<img width="881" height="134" alt="Ekran görüntüsü 2025-12-10 220350" src="https://github.com/user-attachments/assets/66dee176-2584-4933-9153-b6e43bf6eb3a" />
 
-
-
+<img width="881" height="134" alt="Ekran görüntüsü 2025-12-10 220350" src="https://github.com/user-attachments/assets/cd2af169-86ce-4514-9f72-5e7df3c71fb3" />
 
 
 
@@ -98,7 +96,7 @@ BES ve engelli indirimi gibi özel indirimler personel bazında dikkate alınır
 Örnek Bordro Çıktısı:
 
 
-<img width="651" height="752" alt="Ekran görüntüsü 2025-12-10 214758" src="https://github.com/user-attachments/assets/ecd0c0d8-25b1-4d57-8747-5c5c1ba3041a" />
+<img width="651" height="752" alt="Ekran görüntüsü 2025-12-10 214758" src="https://github.com/user-attachments/assets/c780e9b8-697c-4e7b-8cf3-79be8c00e187" />
 
 Proje word : 
 [AlgoFinalMaas_Bordro2026.docx](https://github.com/user-attachments/files/26250399/AlgoFinalMaas_Bordro2026.docx)
